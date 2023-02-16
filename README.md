@@ -4,6 +4,6 @@ The emergence of ChatGPT and other AI-based technologies has stirred up a lot of
 
 ## Frequently Asked Questions
 
-* I'm a bit skeptical about this project Could it be possible for someone to develop a model that is able to generalize the submitted material and successfully break through the "unbeatable" captcha? *
+*I'm a bit skeptical about this project Could it be possible for someone to develop a model that is able to generalize the submitted material and successfully break through the "unbeatable" captcha?*
 
 The aim of this project is purely educational, so we'd love to see anyone attempt to create a captcha solver for Oriondrive 2. However, it's a bit trickier than it seems - new contributions increase the variability of the data, making it harder to generalize. That's why we keep the project open for contributions - the more the patterns change, the longer it will stay unbeatable. To further complicate it, some of the contributions will disappear from the archive randomly over time to control the data supply and prevent neural networks from gaining an advantage. Don't be alarmed when this happens - the contributions will just be moved to special podcasts, making data collection even more difficult.
