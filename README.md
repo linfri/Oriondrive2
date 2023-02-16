@@ -1,6 +1,6 @@
 # Oriondrive 2: The Unbeatable Captcha
 
-The emergence of ChatGPT and other AI-based technologies has stirred up a lot of unease in the creative industries. Artists and musicians have voiced their concerns that these technological advancements could make their professions obsolete and, in turn, cut off their main source of income. However, we believe that the human mind and creativity are still and will forever be irreplaceable. To support this notion, we're launching a new project with the aim of creating captchas that only a human being can solve - ones that no automated captcha solver can crack. As an artist/music producer, you are invited to contribute to the first phase of this project!
+The emergence of ChatGPT and other AI-based technologies has stirred up a lot of unease in the creative community. Artists and musicians have voiced their concerns that these technological advancements could make their professions obsolete and, in turn, cut off their main source of income. However, we believe that the human mind and creativity are still and will forever be irreplaceable. To support this notion, we're launching a new project with the aim of creating captchas that only a human being can solve - ones that no automated captcha solver can crack. As an artist/music producer, you are invited to contribute to the first phase of this project!
 
 ## Unleash Your Creativity
 
