@@ -1,6 +1,10 @@
 # Oriondrive 2: The Unbeatable Captcha
 
-The emergence of ChatGPT and other AI-based technologies has stirred up a lot of unease in the creative industries. Artists and musicians have voiced their concerns that these technological advancements could make their professions obsolete and, in turn, cut off their main source of income. However, we believe that the human mind and creativity are still and will forever be irreplaceable. To support this notion, we're launching a new project with the aim of creating captchas that only a human being can solve - ones that no automated captcha solver can crack.
+The emergence of ChatGPT and other AI-based technologies has stirred up a lot of unease in the creative industries. Artists and musicians have voiced their concerns that these technological advancements could make their professions obsolete and, in turn, cut off their main source of income. However, we believe that the human mind and creativity are still and will forever be irreplaceable. To support this notion, we're launching a new project with the aim of creating captchas that only a human being can solve - ones that no automated captcha solver can crack. As an artist/music producer, you are invited to contribute to the first phase of this project!
+
+## Unleash Your Creativity
+
+For this phase of the project, we need you to think of **a phrase** that makes sense, or doesn't, as long as it can be understood by the user. It should be no longer than 4-5 words, just like a captcha. **Record yourself saying the phrase out loud and clearly.** If you prefer, you can run the phrase through text-to-speech, but it would be better if it's your own voice. If you want, you can also record **a music track**, but it should not exceed 10-15 seconds. Once you are done, **send** the voice recording, track and phrase to linn.friberg@pm.me as attachments in an email.
 
 ## Frequently Asked Questions
 
