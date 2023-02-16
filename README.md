@@ -6,6 +6,8 @@ The emergence of ChatGPT and other AI-based technologies has stirred up a lot of
 
 For this phase of the project, we need you to think of **a phrase** that makes sense, or doesn't, as long as it can be understood by the user. It should be no longer than 4-5 words, just like a captcha. **Record yourself saying the phrase out loud and clearly.** If you prefer, you can run the phrase through text-to-speech, but it would be better if it's your own voice. If you want, you can also record **a music track**, but it should not exceed 10-15 seconds. Once you are done, **send** the voice recording, track and phrase to linn.friberg@pm.me attached to the email.
 
+We'll be adding your track to the repository in three different versions: one with clear voice mixed with music, which should be recognizable by speech-to-text APIs; one with distorted voice mixed with music, which will not be recognized by these APIs; and something in-between; we'll experiment to determine the threshold of recognition. Initially, we'll be using OpenAI's Whisper for transcribing the files and evaluating the results for each track. Every time the model fails to recognize the speech will be a "win for humanity" and the creative community in particular, and we'll be looking into adding other evaluation options (like Google and/or Amazon APIs) to the project in the future.
+
 ## Frequently Asked Questions
 
 *I'm a bit skeptical about this project. Could it be possible for someone to develop a model that is able to generalize the submitted material and successfully break through the "unbeatable" captcha?*
