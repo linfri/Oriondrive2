@@ -8,6 +8,8 @@ For this phase of the project, we need you to think of **a phrase** that makes s
 
 We'll be adding your track to the repository in three different versions: one with clear voice mixed with music, which should be recognizable by speech-to-text APIs; one with distorted voice mixed with music, which will not be recognized by these APIs; and something in-between; we'll experiment to determine the threshold of recognition. Initially, we'll be using OpenAI's Whisper for transcribing the files and evaluating the results for each track. Every time the model fails to recognize the speech will be a "win for humanity" and the creative community in particular, and we'll be looking into adding other evaluation options (like Google and/or Amazon APIs) to the project later.
 
+As our project advances, the next step is to create a prototype captcha service once we have gathered sufficient data. Whether or not we get to the production stage will depend on the project's progress, but either way we'll have achieved an important milestone. There is no set timeframe for contributing phrases and audio files - the project is open indefinitely.
+
 ## Frequently Asked Questions
 
 *I'm a bit skeptical about this project. Could it be possible for someone to develop a model that is able to generalize the submitted material and successfully break through the "unbeatable" captcha?*
