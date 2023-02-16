@@ -4,7 +4,7 @@ The emergence of ChatGPT and other AI-based technologies has stirred up a lot of
 
 ## Unleash Your Creativity
 
-For this phase of the project, we need you to think of **a phrase** that makes sense, or doesn't, as long as it can be understood by the user. It should be no longer than 4-5 words, just like a captcha. **Record yourself saying the phrase out loud and clearly.** If you prefer, you can run the phrase through text-to-speech, but it would be better if it's your own voice. If you want, you can also record **a music track**, but it should not exceed 10-15 seconds. Once you are done, **send** the voice recording, track and phrase to linn.friberg@pm.me, attaching all of the files to the email.
+For this phase of the project, we need you to think of **a phrase** that makes sense, or doesn't, as long as it can be understood by the user. It should be no longer than 4-5 words, just like a captcha. **Record yourself saying the phrase out loud and clearly.** If you prefer, you can run the phrase through text-to-speech, but it would be better if it's your own voice. If you want, you can also record **a music track**, but it should not exceed 10-15 seconds. Once you are done, **send** the voice recording, track and phrase to linn.friberg@pm.me, attaching the files to the email.
 
 ## Frequently Asked Questions
 
